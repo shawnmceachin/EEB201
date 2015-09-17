@@ -1,1 +1,3 @@
-for (ii in 1:9) {cat("\n"); if(ii==9){cat("*\n")}}
+# Exercise 1
+for (ii in 1:9) {cat("\n"); if(ii==9){cat("*")}}
+
